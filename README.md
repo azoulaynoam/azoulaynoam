@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Noam, a 24 years-old backend developer.
 - 👀 I’m interested in Gaming, Surfing and Working Out
-- 🌱 I’m currently learning more programming languages and skills of the backend field.
-- 💞️ I’m looking to collaborate on projects as a backend developer
+- 💞️ I’m looking to collaborate on projects as a software developer
 - 📫 Reach me by linkedin: https://www.linkedin.com/in/azoulaynoam/
 
 <!---
